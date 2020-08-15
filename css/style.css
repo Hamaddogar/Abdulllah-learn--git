@@ -1,0 +1,84 @@
+
+#car-move{
+  animation: 5s linear mycar;
+
+
+}
+
+@keyframes mycar{
+  form{ margin-left:-55px}
+  to{ margin-left: 1200px;}
+
+}
+
+
+/* #main{
+
+    display: inline-flex;
+    padding-left: 204px;
+  
+}
+
+
+#div1{
+
+ width:300px;
+ height: 300px;
+ margin: 20px;
+ background-color: green;
+ animation: 10s linear movediv;
+
+}
+#div2{
+
+    width:300px;
+    height: 300px;
+ margin: 20px;
+ background-color: red;
+ animation: 10s linear movediv;
+
+   
+   }#div3{
+  
+    width:300px;
+    height: 300px;
+ margin: 20px;
+ background-color: black;
+ animation: 10s linear movediv;
+
+ 
+
+
+
+   
+   }
+
+
+
+
+   @keyframes movediv{
+
+ from{transform: rotate(90deg); background-color: indigo;}
+ to{transform: rotate(360deg); background-color: indigo;}
+
+ 
+
+   } */
+
+/* 
+    #css-3d{
+
+   background-color: red;
+    width: 400px;
+     height: 400px;
+     animation:  10s linear mymove;
+    }
+    @keyframes mymove{
+   0%{ background-color: black; width: 500px; height: 500px;}
+  25%{ background-color: blue;width: 1000px; height: 1000px;}
+  75%{ background-color: rebeccapurple;width: 1000px; height: 1000px;}
+  100%{ background-color: red;width: 1000px; height: 1000px;}
+
+   
+
+    } */
